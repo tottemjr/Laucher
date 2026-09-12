@@ -1,20 +1,22 @@
 ﻿# KAHRUN / SkyrimRP Launcher
 
-Instalador do launcher do servidor **SkyrimRP**.
+Launcher **online** para jogar no servidor SkyrimRP com os amigos.
 
 ## Download
 
-Baixe o instalador na [página de Releases](https://github.com/tottemjr/Laucher/releases/latest):
+**[Baixar KAHRUNLauncher.exe](https://github.com/tottemjr/Laucher/releases/latest/download/KAHRUNLauncher.exe)**
 
-- **KAHRUNLauncher.exe**
+## Conectar
 
-Ou use o arquivo em `launcher/` (quando publicado via release assets).
+| | |
+|--|--|
+| Servidor | `187.86.168.158` |
+| Porta | `7778` |
+| API | `http://187.86.168.158:4000` |
 
-## Servidor
+1. Baixe e instale o launcher
+2. Selecione a pasta do **Skyrim Special Edition** (Steam 1.6.1170)
+3. Abra o launcher — o servidor SkyrimRP aparece automaticamente
+4. Jogue
 
-- IP: `187.86.168.158`
-- Porta: `7778`
-
-## Build
-
-Gerado a partir do projeto Kahrun (`skymp5-launcher`) com Electron + React + TypeScript + Vite.
+Versão atual: **2.3.1** (API pública embutida).

@@ -1,7 +1,12 @@
 ﻿# Pasta launcher
 
-O instalador **KAHRUNLauncher.exe** (~106 MB) é publicado nas **Releases** deste repositório (limite do GitHub para arquivos no git é 100 MB).
-
-Download direto da última release:
+## Download (amigos / outra máquina)
 
 https://github.com/tottemjr/Laucher/releases/latest/download/KAHRUNLauncher.exe
+
+Servidor online:
+- IP: `187.86.168.158`
+- Porta game: `7778`
+- API launcher: `http://187.86.168.158:4000`
+
+Instale o exe, abra o launcher, selecione a pasta do Skyrim SE/AE e jogue.
