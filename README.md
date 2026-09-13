@@ -7,7 +7,7 @@
 | | |
 |--|--|
 | Servidor | `187.86.168.158:7778` |
-| API | `http://187.86.168.158:4000` |
-| Versão | **2.3.20** |
+| API | `https://api.kahrun.com.br` |
+| Versão | **2.3.21** |
 
 Instale, escolha a pasta do Skyrim SE/AE e jogue online.
